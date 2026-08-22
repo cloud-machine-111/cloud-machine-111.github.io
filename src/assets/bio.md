@@ -7,7 +7,7 @@ Right now, I’m spending many waking hours working on my senior thesis, which e
  - [hci] Taxonomizing the methods of individual and collective action artists take across different creative domains as a function of their sociolegal conditions.
     
  - [crypto/ML] Hardening commitment-based non-membership proofs to adversarial augmentation – such that these proofs can be used more robustly to guarantee that sensitive data hasn’t been used in AI training datasets.[^2] 
- [^2]: This helps policymakers and the public audit tech companies’ compliance to data protection regulations more quickly and verifiably, and may mean that the onus of providing proof of violation rests less laboriously on the public - but of course, integration is a nuanced sociotechnical question.
+ [^2]: This helps policymakers and the public audit tech companies’ compliance to data protection regulations more quickly and verifiably, and may mean that the onus of proving violation rests less laboriously on the public - but of course, a technological "fix" doesn't solve sociolegal integration.
 
 More broadly in life, some things I love are [visual art](/personal-site/art) (comic art, printmaking), the critical history of language technology, and all of Kaveh Akbar’s *Pilgrim Bell* poems. Please reach out about any of the above :)
 
