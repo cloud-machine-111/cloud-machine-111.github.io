@@ -17,4 +17,4 @@ pubDate: ??
 
   - [ ] gently brush the forehead of tech support
 
-  <video src="/personal-site/videos/saladgirl.mp4" controls />
+  <video src="/videos/saladgirl.mp4" controls />
