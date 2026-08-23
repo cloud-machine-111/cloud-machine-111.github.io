@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import BlogPosts from "../components/posts_list.astro";
+import rss from '../assets/rss.svg';
 ---
 
 <Layout title="Blog">
@@ -9,7 +10,7 @@ import BlogPosts from "../components/posts_list.astro";
       <div>
         <!-- <div style="box-sizing: border-box; .div {float: left;}"> -->
         <h2>Updates</h2>
-        <a href="/rss.xml"> <img src="rss.svg" style="width: 1em" /> </a>
+        <a href="/rss.xml"> <img src={rss.src} style="width: 1em" /> </a>
       </div>
       <BlogPosts />
     </div>
