@@ -8,11 +8,6 @@ In the past, I’ve had the luck to RA at Brown’s [DISCO Lab](https://discolab
 [^1]: How might community-based moderation demand different algorithmic affordances than top-down, centralized moderation? How can we use small AI thoughtfully?
 [^1.5]: Will be linked in early September.
 
-<!-- I'm currently interested in human and legal factors in cryptography. 
- - 
- -  -->
-
-
 In broader life, some things I love are [visual art](/art) (comic art, printmaking), the critical history of language technology, and all of Kaveh Akbar’s *Pilgrim Bell* poems. Please reach out about any of the above :)
 
 
